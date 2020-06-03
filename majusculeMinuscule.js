@@ -12,7 +12,7 @@ const upperLowerLetters = (sentence) => {
         }
     }
 
-    return finalString.join('');
+    console.log(finalString.join(''));
 
 };
 
